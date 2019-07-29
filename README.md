@@ -23,11 +23,11 @@
 # :cyclone:贡献者
 **以下排名不分先后!**
 </br>
-:octocat:宁辉<a href="https://skr-king.github.io/">https://skr-king.github.io/</a>
+:octocat:宁辉:<a href="https://skr-king.github.io/">https://skr-king.github.io/</a>
 <br>
-:octocat:王荣胜<a href="https://uppez.github.io/">https://uppez.github.io/</a>
+:octocat:王荣胜:<a href="https://uppez.github.io/">https://uppez.github.io/</a>
 <br>
-:octocat:杨志<a href="https://hpu-yz.github.io/">https://hpu-yz.github.io/</a>
+:octocat:杨志:<a href="https://hpu-yz.github.io/">https://hpu-yz.github.io/</a>
 <br>
 :octocat:胡华金
 <br>
