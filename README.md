@@ -22,6 +22,7 @@
 </br>
 # :cyclone:贡献者
 **以下排名不分先后!**
+</br>
 :octocat:宁辉<a href="https://skr-king.github.io/">https://skr-king.github.io/</a>
 <br>
 :octocat:王荣胜<a href="https://uppez.github.io/">https://uppez.github.io/</a>
@@ -36,4 +37,4 @@
 <br>
 # :love_letter:打赏
 **如果你觉得这些内容有用就打赏下我们吧,嘤嘤嘤qwq~**
-<center><img src="https://s2.ax1x.com/2019/07/29/e1HNcD.jpg" alt="e1HNcD.jpg" border="0" /></center>
+<center> <img src="https://s2.ax1x.com/2019/07/29/e1HNcD.jpg" alt="e1HNcD.jpg" border="0" /> </center>
