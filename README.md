@@ -21,7 +21,7 @@
 :memo:MF
 </br>
 # :cyclone:贡献者
-**以下排名不分先后!**
+**以下排名不分先后!请复制地址粘贴博客打开!**
 </br>
 :octocat:宁辉:<a href="https://skr-king.github.io/">https://skr-king.github.io/</a>
 <br>
