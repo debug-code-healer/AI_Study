@@ -1,7 +1,7 @@
 # :bust_in_silhouette:说明
 :speech_balloon:0.内容=笔记+配套代码,适用于相同与我们的小白
 </br>
-:speech_balloon:1.所有文件均为html文件,请打包下载查看
+:speech_balloon:1.**所有文件均为html文件,请打包下载查看**
 </br>
 :speech_balloon:2.个人笔记,不可商用
 </br>
